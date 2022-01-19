@@ -1,0 +1,26 @@
+#submit-input {
+    background-color: #0c80f3;
+    border: 6px solid #0ff166;
+    color: cornsilk;
+    border-radius: 10px;
+    width: 150px;
+  }
+  
+#mode-select {
+    display: block;
+    margin-bottom: 20px;
+    background-color:  #209cee;
+    color: cornsilk;
+}
+
+html, body {
+    background-color: #209cee;
+}
+
+#total:hover {
+    color: #209cee;
+    transition-duration: 50ms;
+}
+h5 {
+    color: red;
+}
